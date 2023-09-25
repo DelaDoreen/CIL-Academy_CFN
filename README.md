@@ -23,8 +23,13 @@ This project contains an AWS infrastructure that employs CloudFormation for stac
 
 # AWS CloudFormation
 
+![CloudFormation](https://github.com/DelaDoreen/CIL-Academy_CFN/assets/142509085/f058b41d-a06c-4878-a5d4-1289ff26cfda)
+
+
 
 # Resources created by CloudFormation stack
+
+
 
 
 # Python Script
