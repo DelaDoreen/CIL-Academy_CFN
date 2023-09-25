@@ -29,14 +29,15 @@ This project contains an AWS infrastructure that employs CloudFormation for stac
 
 # Resources created by CloudFormation stack
 
-
+![ResourcesCreated](https://github.com/DelaDoreen/CIL-Academy_CFN/assets/142509085/bc4a3226-8a0a-4949-9d60-fb9fc08cf76b)
 
 
 # Python Script
-
+![PythonScript](https://github.com/DelaDoreen/CIL-Academy_CFN/assets/142509085/5c8944fa-4b5f-4cc3-a562-522ca7d4e91b)
 
 # Cronjob
 
+![Cronjob](https://github.com/DelaDoreen/CIL-Academy_CFN/assets/142509085/b1efd1e4-a496-4c0b-8c28-b0eaf07a56ae)
 
 # Challenges Encountered
 * Understanding CloudFormation was daunting in the beginning, but with extensive research and collaboration, I was able to grasp the concept and implement it.
