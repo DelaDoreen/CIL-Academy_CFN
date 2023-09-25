@@ -23,7 +23,7 @@ This project contains an AWS infrastructure that employs CloudFormation for stac
 <img width="700" alt="CFN" src="https://github.com/DelaDoreen/CIL-Academy_CFN/assets/142509085/4306d2e9-29d6-4890-bfbd-695561efe7bb">
 
 # Resources created by CloudFormation stack
-<img width="695" alt="Resources created with CFN" src="https://github.com/DelaDoreen/CIL-Academy_CFN/assets/142509085/7c10c29b-f424-4b1a-a138-6333d2dcd54c">
+<img width="695" alt="Resources created with CFN" src="https://github.com/DelaDoreen/CIL-Academy_CFN/assets/142509085/7c10c29b-f424-4b1a-a138-6333d2dcd54c.png">
 
 # Python Script
 <img width="545" alt="Python script" src="https://github.com/DelaDoreen/CIL-Academy_CFN/assets/142509085/f59822b4-1ce7-4dbc-ab3d-00ca25d0cd9b">
