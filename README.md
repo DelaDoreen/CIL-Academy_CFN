@@ -16,20 +16,22 @@ This project contains an AWS infrastructure that employs CloudFormation for stac
 * The Python script is then used to download the images and files from the S3 Bucket into the EC2 Instance, which acts as backup storage. 
 * Then comes the cronjob, which is used to schedule the time the backups will occur.
    
-# Architecture 
-![architecture](https://github.com/DelaDoreen/CIL-Academy_CFN/assets/142509085/51cd39f8-b36d-4ba5-80cd-6b6644eada11)
+# Architecture
+![architecture](https://github.com/DelaDoreen/CIL-Academy_CFN/assets/142509085/f9a7a32b-7738-4375-8372-7b5792decdc8)
+ 
+
 
 # AWS CloudFormation
-<img width="700" alt="CFN" src="https://github.com/DelaDoreen/CIL-Academy_CFN/assets/142509085/4306d2e9-29d6-4890-bfbd-695561efe7bb">
+
 
 # Resources created by CloudFormation stack
-<img width="695" alt="Resources created with CFN" src="https://github.com/DelaDoreen/CIL-Academy_CFN/assets/142509085/7c10c29b-f424-4b1a-a138-6333d2dcd54c.png">
+
 
 # Python Script
-<img width="545" alt="Python script" src="https://github.com/DelaDoreen/CIL-Academy_CFN/assets/142509085/f59822b4-1ce7-4dbc-ab3d-00ca25d0cd9b">
+
 
 # Cronjob
-<img width="355" alt="Cronjob" src="https://github.com/DelaDoreen/CIL-Academy_CFN/assets/142509085/3fad8b6d-999c-4234-97cf-74281ab51afe">
+
 
 # Challenges Encountered
 * Understanding CloudFormation was daunting in the beginning, but with extensive research and collaboration, I was able to grasp the concept and implement it.
